@@ -6,3 +6,5 @@ def count_to_ten():
         counter += 1
 
     return counter
+
+print(count_to_ten())
